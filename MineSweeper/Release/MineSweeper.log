@@ -1,0 +1,10 @@
+﻿  소스.cpp
+D:\MEGA\대학교3학년\2.객체기반SW설계\MineSweeper_Explain\MineSweeper\소스.cpp(33,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEGA\대학교3학년\2.객체기반SW설계\MineSweeper_Explain\MineSweeper\소스.cpp(33,18): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\MEGA\대학교3학년\2.객체기반SW설계\MineSweeper_Explain\MineSweeper\소스.cpp(65,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  49 of 123 functions (39.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  MineSweeper.vcxproj -> D:\MEGA\대학교3학년\2.객체기반SW설계\MineSweeper_Explain\Release\MineSweeper.exe

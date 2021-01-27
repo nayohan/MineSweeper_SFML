@@ -1,0 +1,2 @@
+﻿  소스.cpp
+D:\MEGA\대학교3학년\2.객체기반SW설계\MineSweeper_Explain\MineSweeper\소스.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
